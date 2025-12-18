@@ -11,4 +11,8 @@ Acord 29 === Policy Change whatever it is flood or homeowners or content..
 
 
 
+We can take business property but can not take business personal property.
+
+
+
 
