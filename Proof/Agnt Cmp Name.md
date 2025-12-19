@@ -13,7 +13,7 @@
 - Agent information is first priority.
 - If there is agency information is not available in the document we can take it as None Shown.
 
-
+In the Fax page we can take agency details if the any of the agent details or matched in Fax page either phone number or address or agency name.
 
 
 
