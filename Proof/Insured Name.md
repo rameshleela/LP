@@ -20,6 +20,8 @@
 - If insured name contains Association, condo, assn, Town, Villa, HPR then we can take policy type as HOA.
 
 **DBA:** Doing business as
+
 **FKA:** Formally known as
+
 **AKA:** Also known as
 
