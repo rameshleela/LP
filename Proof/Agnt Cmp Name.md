@@ -14,10 +14,10 @@
 - If there is agency information is not available in the document we can take it as None Shown.
 
 **We need at least 2 fields to take agency details**
-- Agency name with Address and with Zip code
-- Agency name with Phone number
-- Agency name with Fax number
-- Agency Address and Zip code
+- Agency name + Address + Zip code
+- Agency name + Phone number
+- Agency name + Fax number
+- Agency Address + Zip code
 
 **None Shown**
 - Only Agency name
@@ -28,5 +28,12 @@
 
 In the Fax page we can take agency details if the any of the agent details or matched in Fax page either phone number or address or agency name.
 
+## Examples
+
+Insurance agency DBA Stephen
+
+Insurance agency C/O Stephen
+
+Here we can take agent name Stephen as agent name.
 
 
