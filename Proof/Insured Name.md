@@ -25,3 +25,16 @@
 
 **AKA:** Also known as
 
+## Examples
+
+Scott revocable trust 12/08/2025
+Scott trustee
+- We can take Scott revocable trust.
+- Don't take date.
+- In second line Take only individual name that is Scott.
+
+Elizabeth 1234567 Sarah
+- We can take Individual names only as Elizabeth Sarah, don't take numbers if it has individual names.
+
+Ram insurance 12345 llc
+- We can take full insured name with numbers because it is commercial name.
