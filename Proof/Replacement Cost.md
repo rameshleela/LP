@@ -2,10 +2,10 @@
 
 ## RC True Examples:
 > Policy includes Extended Replacement Cost
-- 100% Guaranteed Replacement Cost
-- 100% Full Inflation Guard Replacement Cost
-- "RC" - just the two letters acceptable abbreviation for replacement cost
-- "GRC" - just the three letters acceptable abbreviation for guaranteed replacement cost
+> 100% Guaranteed Replacement Cost
+> 100% Full Inflation Guard Replacement Cost
+> "RC" - just the two letters acceptable abbreviation for replacement cost
+> "GRC" - just the three letters acceptable abbreviation for guaranteed replacement cost
 - Replacement Cost Guarantee
 - This is a Replacement Cost Policy
 - Dwelling Type: Dwelling Replacement Cost
