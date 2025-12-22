@@ -30,6 +30,21 @@
 - replacement cost similar construction
 - Building Structure Reimbursement Extended Limits listed as purchased
 
+## RC True Examples (Flood Documents Only)
+- additional replacement cost
+- building structure reimbursement"
+- full reimbursement cost
+- full renovation cost
+- extended renovation cost
+- full rebuilding cost
+- extended replacement cost
+- full value replacement coverage
+- guaranteed replacement cost
+- replace cost","rc", "rcv", "ext rc
+- "grc", "replacement cost Y"
+- reimbursement cost
+- inflation guard included
+- replacement cost similar construction
 
 
 
