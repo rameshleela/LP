@@ -53,18 +53,18 @@ Leave characteristic as unknown if document gives no clear indication of include
 Policy only shows Personal Property as having Replacement Cost Coverage and does not confirm any RC for the building / dwelling / structural portion.
 
 ## RC False Examples:
-- Document states "Guaranteed Replacement Cost Exclusion"
-- Document states "No Replacement Guarantee"
-- Document Shows Replacement Cost: “N" - this is usually a YES/NO answer field for the Insurance company, the "N" indicating a "NO" response for inclusion typically 
-Document states "This is not a Replacement Policy" 
-"no replacement cost"
-"no replace cost"
-"no rc"
-"no rcv"
-"no reimbursement cost”
-Actual Cash Value falls into this category (Exception: If the document contains both Actual Cash Value (or Cash Market Value) and any of the Replacement Cost Value designations — then mark “True”)
-“without Building Structure Replacement Cost Extended Limits"
-“Building Structure Reimbursement Extended Limits” listed as not purchased
+- Document states **Guaranteed Replacement Cost Exclusion**
+- Document states **No Replacement Guarantee**
+- Document Shows Replacement Cost: **N** - this is usually a YES/NO answer field for the Insurance company, the **N** indicating a **NO** response for inclusion typically
+- Document states **This is not a Replacement Policy**
+- no replacement cost
+- no replace cost
+- no rc
+- no rcv
+- no reimbursement cost
+- Actual Cash Value falls into this category (Exception: If the document contains both Actual Cash Value (or Cash Market Value) and any of the Replacement Cost Value designations — then mark "True")
+- without Building Structure Replacement Cost Extended Limits
+- Building Structure Reimbursement Extended Limits listed as not purchased
 
 
 
