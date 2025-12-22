@@ -15,6 +15,8 @@
 
 **Co:** Company
 
+**Cor:** Corporated
+
 **Inc:** Incorporated
 
 **Prop:** Property
