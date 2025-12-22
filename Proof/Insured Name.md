@@ -17,7 +17,7 @@
 - We can take after DBA, AKA, FKA.
 - We can take Jr, Sr, in Insured name.
 - If insured name is not available in the document we can take it as No Name.
-- If insured name contains Association, condo, assn, Town, Villa, HPR then we can take policy type as HOA.
+- If insured name contains Association, Condominium, Condo, Assn, Town, Villa, HPR, COA, POA then we can take policy type as HOA.
 
 **DBA:** Doing business as
 
