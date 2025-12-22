@@ -8,6 +8,8 @@
 - Acord 75 Binder
 - Acord 80 Application
 
+## Acord 29
+- Doc Type like Homeowners, Flood, or Content whatever it is, if you get Acord 29 then the Doc Id is Policy change.
 
 
 
