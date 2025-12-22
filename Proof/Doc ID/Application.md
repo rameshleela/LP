@@ -6,6 +6,7 @@
 - We can take application number as policy number.
 
 **Examples**
+
 Home owners application
 
 Dwelling policy application
