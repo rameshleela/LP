@@ -1,7 +1,8 @@
 # Replacement Cost
 
 ## RC True Examples:
-> Policy includes Extended Replacement Cost
+
+#0969DA Policy includes Extended Replacement Cost
 
 > 100% Guaranteed Replacement Cost
 
