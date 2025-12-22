@@ -2,14 +2,9 @@
 
 ## RC True Examples:
 
-`#0969DA`
-
-
-Policy includes Extended Replacement Cost
-
-> 100% Guaranteed Replacement Cost
-
-> 100% Full Inflation Guard Replacement Cost
+- Policy includes Extended Replacement Cost
+- 100% Guaranteed Replacement Cost
+- 100% Full Inflation Guard Replacement Cost
 
 > "RC" - just the two letters acceptable abbreviation for replacement cost
 
