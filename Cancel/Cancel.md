@@ -38,7 +38,25 @@ REQUEST.
 
 Stands for underwriting reasons.
 
+## DOC ID
 
+### INTENT TO CANC:
+
+**Keyword:** INTEN TO CANCEL, Pre-Cancellation, Pending Cancel, Impending Cancel
+
+<img width="679" height="181" alt="image" src="https://github.com/user-attachments/assets/70c8fb50-05c6-4227-8ab5-e12b9a315e82" />
+
+### NON-RENEWAL
+
+**Keyword:** NON RENEW/NON RENEWAL              
+
+### CANCEL
+
+If no explanation is listed, choose Cancel.
+
+### EXPIR
+
+If the document is EXPIR and there is no coverage.
 
 
 
