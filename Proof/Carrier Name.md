@@ -11,13 +11,21 @@
 
 ## Short Forms
 
-**Ins:** Insurance
+Here are the few words we will get in short form which we need enter abbreviation.
 
-**Co:** Company
+**Corp:** Corporation
 
-**Cor:** Corporated
+**INC:** Incorporated
 
-**Inc:** Incorporated
+**INS:** Insurance
+
+**St** Saint
+
+**Mt:** Mount
+
+**Ltd:** Limited
+
+**Co:** company
 
 **Prop:** Property
 
