@@ -59,6 +59,10 @@ If no explanation is listed, choose Cancel.
 If the document is EXPIR and there is no coverage.
 
 
+## Expiration Date:
+1.	Take the term expiration date of the  expire date. 
+2.	When document has effective but expire date is not given calculate 12 months from the effective date take it.
+3.	leave it blank if not available
 
 
 
