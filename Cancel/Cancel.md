@@ -12,6 +12,34 @@
 
 In the above example, the reason for cancellation is non-payment of due.
 
+## Cancel premium due date
+- Used only if the cancel reason is Non-Pay. The due date listed for payment in order to reinstate the policy.
+
+**Keywords:** Due Date, Cancel premium due date
+
+<img width="695" height="238" alt="image" src="https://github.com/user-attachments/assets/8de23703-20a1-4f6c-8607-7e052e03c0e6" />
+
+## Cancel reason 
+- This field has a present list of values and this field MUST be filled in on all cancels.
+
+### NON PAY:
+
+NON PAY/similar for we have not received the payment.
+
+### OTHER:
+
+If no reason is listed, choose other.
+
+### REQUEST:
+
+REQUEST.
+
+### U/W:
+
+Stands for underwriting reasons.
+
+
+
 
 
 
